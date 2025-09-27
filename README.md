@@ -171,25 +171,25 @@ We also done the experiment to determine the simulation-synthesis mismatch of fi
 
 Case statements executes sequentially where nothing is prioritize. Different caveats of case statement includes the incomplete case statement, partial assignment and the overlapping cases.
   
-  # Complete case statement
+     # Complete case statement
 
   ![WhatsApp Image 2025-09-27 at 22 56 10_19293a30](https://github.com/user-attachments/assets/8ec13f50-0271-4a5f-8a0b-7f611dfa6936)
 
 ![WhatsApp Image 2025-09-27 at 22 56 22_b39e601d](https://github.com/user-attachments/assets/7e8c66ce-4010-4fe0-8235-1e18a9a0d401)
 
- # Incomplete case statement
+     # Incomplete case statement
 
 ![WhatsApp Image 2025-09-27 at 22 57 17_582de2c2](https://github.com/user-attachments/assets/6c39ff4c-9bc0-443a-b5f2-905a3ff8e01b)
 
 ![WhatsApp Image 2025-09-27 at 22 57 29_56a20796](https://github.com/user-attachments/assets/34ac205b-ddcd-4a50-bd7e-ed046ef0310f)
 
- # Partial case assign statement
+    # Partial case assign statement
 
  ![WhatsApp Image 2025-09-27 at 22 58 08_328d7ee8](https://github.com/user-attachments/assets/2d9e7c5e-b198-40a2-8584-141232eb5e4d)
 
 ![WhatsApp Image 2025-09-27 at 22 58 18_39331185](https://github.com/user-attachments/assets/0a024df8-93fa-4a45-bf3f-213d75490cd2)
 
-  # Bad case statement
+    # Bad case statement
 
 ![WhatsApp Image 2025-09-27 at 22 59 00_6e18d97f](https://github.com/user-attachments/assets/bb574a33-89bb-44ed-8941-b368865b921b)
 
