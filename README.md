@@ -9,7 +9,7 @@ Day 1 deals with the introduction of basics simulator, design, testbench and the
 
  <img width="1252" height="624" alt="Screenshot 2025-09-26 135442" src="https://github.com/user-attachments/assets/a7ea6a66-2408-4b7b-a82c-3dc7a0878705" />
 
-  2. Iverilog and GTKwave: Done simulation of good_mux
+ 2. Iverilog and GTKwave: Done simulation of good_mux
  
  These are invoke using : 
  
@@ -117,7 +117,7 @@ show
 
 ![WhatsApp Image 2025-09-27 at 22 46 25_bee24a42](https://github.com/user-attachments/assets/8532033d-bae7-4566-846b-731b93a254ee)
 
-   # dff_const5.v
+    # dff_const5.v
 
 ![WhatsApp Image 2025-09-27 at 22 47 00_e24f96b1](https://github.com/user-attachments/assets/27ce5aff-43f1-48c5-958b-dcc64f245c39)
 
